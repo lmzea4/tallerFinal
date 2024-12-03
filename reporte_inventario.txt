@@ -1,0 +1,20 @@
+1, ahuyama, verduras, 9000.2, 5, 45001.0
+2, brocoli, verduras, 8500.23, 7, 59501.61
+3, tomate, verduras, 6000.0, 45, 270000.0
+4, arroz, granos, 25000.0, 35, 875000.0
+5, lenteja, granos, 23000.0, 38, 874000.0
+6, garbanzo, granos, 33000.0, 40, 1320000.0
+8, maiz, granos, 26000.0, 22, 572000.0
+9, carneRes, carnicos, 77000.0, 25, 1925000.0
+10, pollo, carnicos, 65000.0, 28, 1820000.0
+11, pescado, carnicos, 60000.0, 22, 1320000.0
+12, carneCerdo, carnicos, 69000.0, 35, 2415000.0
+13, papelHigienico, higiene, 28000.0, 15, 420000.0
+14, jabonTocador, higiene, 33000.0, 24, 792000.0
+15, jabonPolvo, higiene, 81000.0, 45, 3645000.0
+16, piña, frutas, 45000.0, 26, 1170000.0
+18, melon, frutas, 15000.0, 11, 165000.0
+19, mango, frutas, 6000.0, 6, 36000.0
+17, banano, frutas, 2900.0, 9, 26100.0
+
+Valor total del inventario: $17,749,602.61
